@@ -51,3 +51,8 @@ This repository contains a Jupyter notebook that performs exploratory data analy
 - Trends in order frequency
 - Key periods with peak sales activity
 
+📌 Notes
+- The dataset used is embedded within the notebook.
+- All plots and findings are documented with comments for ease of understanding.
+- This is ideal for learning how to perform EDA on retail/e-commerce datasets.
+
